@@ -1,0 +1,13 @@
+// ilk olarak Note isimli entity dosyamızı oluşturduk.
+
+// Dao Interface dosyamızı oluşturduk
+
+// Dao Dosyasında db işlemlerini tanımladık
+
+// NoteDb isimli abstract db classımız
+
+// Repository dosyası; Repository will provide you this
+// by choosing the appropriate data locally or on the network.
+
+//Verileri tutmak için ViewModel
+
